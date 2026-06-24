@@ -58,7 +58,7 @@ local Camera      = workspace.CurrentCamera
 
 -- ─── Config ──────────────────────────────────────────────────────────────────
 local HOVER_HEIGHT    = 0
-local BEHIND_DISTANCE = 10
+local BEHIND_DISTANCE = 3
 local MIN_HEIGHT      = 10
 local FIRE_RATE       = 0.5
 local AIM_SMOOTH      = 0.12
