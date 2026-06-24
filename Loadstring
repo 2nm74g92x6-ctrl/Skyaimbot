@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("YOUR_RAW_GITHUB_URL_HERE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2nm74g92x6-ctrl/Skyaimbot/refs/heads/main/Raw%20code"))()
