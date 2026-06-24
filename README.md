@@ -90,7 +90,7 @@ local PRIORITY_COLORS = {
     Color3.fromRGB(160,  30,  30),
 }
 
-local TWEEN_TIME = 0.1
+local TWEEN_TIME = 0
 local PANEL_W    = 210
 local PANEL_H    = 272
 
