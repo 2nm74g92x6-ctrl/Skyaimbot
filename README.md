@@ -57,7 +57,7 @@ local LocalPlayer = Players.LocalPlayer
 local Camera      = workspace.CurrentCamera
 
 -- ─── Config ──────────────────────────────────────────────────────────────────
-local HOVER_HEIGHT    = 0
+local HOVER_HEIGHT    = 1
 local BEHIND_DISTANCE = 3
 local MIN_HEIGHT      = 10
 local FIRE_RATE       = 0.5
